@@ -1,0 +1,27 @@
+Generate the local blog project
+    npx @docusaurus/init@latest init blog-sample classic
+Push to remote repo
+    cd blog-sample
+    git init
+    git add .
+    git commit -m "init project"
+    git remote add origin git@github.com:Tsinghua-NSLab/web-source.git
+    git push --set-upstream origin main
+
+yarn start
+  Starts the development server.
+
+yarn build
+  Bundles the app into static files for production.
+
+yarn deploy
+  Publish website to GitHub pages.
+
+GIT_USER=your_account USE_SSH=true DEPLOYMENT_BRANCH=gh-pages yarn deploy
+
+References:
+
+    docusaurus.config.js notes:
+    https://github.com/yingwinwin/yingwinwin.github.io/blob/master/docusaurus.config.js
+
+
