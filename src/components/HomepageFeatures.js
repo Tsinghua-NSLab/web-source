@@ -4,45 +4,46 @@ import styles from './HomepageFeatures.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('../../static/img/undraw_docusaurus_mountain.svg').default,
+    title_cn: '网络算法',
+    title_en: 'Network Algorithmic',
+    Svg: require('../../static/img/algorithm.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        中国电子学会科学技术奖二等奖：《层次化、并行化、智能化网流监控关键算法与技术》
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('../../static/img/undraw_docusaurus_tree.svg').default,
+    title_cn: '系统设计',
+    title_en: 'System Design',
+    Svg: require('../../static/img/system.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       国家863目标导向项目：《一体化网络数据深度安全检测与分析的技术与系统》
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
+    title_cn: '网络自动化',
+    title_en: 'Network Automation',
+    Svg: require('../../static/img/automation.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+       自然科学基金面上项目：《软件定义的网络自动化设计方法》
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title_cn, title_en, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} alt={title} />
+        <Svg className={styles.featureSvg} alt={title_cn} />
       </div>
       <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
+        <h3>{title_cn}</h3>
+        <h3>{title_en}</h3>
         <p>{description}</p>
       </div>
     </div>
