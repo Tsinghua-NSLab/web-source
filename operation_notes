@@ -24,4 +24,5 @@ References:
     docusaurus.config.js notes:
     https://github.com/yingwinwin/yingwinwin.github.io/blob/master/docusaurus.config.js
 
-
+Terminal with proxy
+    export ALL_PROXY=socks5://127.0.0.1:7891

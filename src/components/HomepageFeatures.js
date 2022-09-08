@@ -9,7 +9,7 @@ const FeatureList = [
     Svg: require('../../static/img/algorithm.svg').default,
     description: (
       <>
-        中国电子学会科学技术奖二等奖：《层次化、并行化、智能化网流监控关键算法与技术》
+        中国电子学会科学技术奖二等奖——层次化、并行化、智能化网流监控关键算法与技术
       </>
     ),
   },
@@ -19,7 +19,7 @@ const FeatureList = [
     Svg: require('../../static/img/system.svg').default,
     description: (
       <>
-       国家863目标导向项目：《一体化网络数据深度安全检测与分析的技术与系统》
+       国家863目标导向项目——一体化网络数据深度安全检测与分析的技术与系统
       </>
     ),
   },
@@ -29,7 +29,7 @@ const FeatureList = [
     Svg: require('../../static/img/automation.svg').default,
     description: (
       <>
-       自然科学基金面上项目：《软件定义的网络自动化设计方法》
+       国家自然科学基金面上项目——软件定义的网络自动化设计方法
       </>
     ),
   },

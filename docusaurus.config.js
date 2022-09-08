@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: '清华大学网络安全实验室',
   tagline: 'Network Security Lab, Tsinghua University',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://tsinghua-nslab.org/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -48,10 +48,20 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         },
         items: [
           {
-            activeBasePath: 'docs', // 路径
+            position: 'left',
+            label: '成员介绍',
+            to: '/docs/people/advisor/index',
+          },
+          {
+            //activeBasePath: 'docs', // 路径
             position: 'left',
             label: '课题研究',
             to: '/docs/research/index',
+          },
+          {
+            position: 'left',
+            label: '成果共享',
+            to: '/docs/share/index',
           },
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
           /* {
