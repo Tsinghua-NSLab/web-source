@@ -5,7 +5,7 @@ import styles from './HomepageFeatures.module.css';
 const FeatureList = [
   {
     title_cn: '网络算法',
-    title_en: 'Network Algorithmic',
+    title_en: 'Network Algorithmics',
     Svg: require('../../static/img/algorithm.svg').default,
     description: (
       <>
