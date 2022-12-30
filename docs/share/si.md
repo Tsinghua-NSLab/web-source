@@ -22,6 +22,8 @@ custom_edit_url: null
 
 ### 撰写文章
 
+[26] Yifan Li, Jiaqi Gao, Ennan Zhai, Mengqi Liu, Kun Liu and Hongqiang Harry Liu. Cetus: Releasing P4 Programmers from the Chore of Trial and Error Compiling. Proc. of the 19th USENIX Symposium on Networked Systems Design and Implementation (NSDI), 2022.
+
 [25] Xiaohe Hu, Yang Xiang, Yifan Li, Buyi Qiu, Kai Wang and Jun Li. [Trident: Efficient and Practical Software Network Monitoring](../../static/share/TST_Trident_accepted.pdf). Tsinghua Science and Technology, pp. 452-463, Vol. 26, No. 4, August, 2021.
 
 [24] Zhi Liu, Shijie Sun, Ju Xing, Zhe Fu, Xiaohe Hu, Jianwen Pi, Xiaofeng Yang, Yunsong Lu and Jun Li. [MN-SLA: A Modular Networking SLA Framework for Cloud Management System](../../static/share/zhiliu-MN-SLA.pdf). Tsinghua Science and Technology, pp. 635–644, Vol. 23, No. 6, December, 2018.
@@ -34,7 +36,7 @@ custom_edit_url: null
 
 [20] Zhe Fu, Xiaohe Hu, Xiang Wang, Chang Chen and Jun Li. [AP MATRIX: A New Access Point Architecture for Reliable Public Wi-Fi Services](../../static/share/FuZhe-ICNC2016.pdf). Proc. of the International Conference on Computing, Networking and Communications (ICNC), 2016.
 
-[19] Yiyang Shao, Yihang Luo, Xiaohe Hu, Yibo Xue, Yang Xiang and Kevin Yin. [FLAX: A Flexible Architecture for Large Scale Cloud Fabric](../../static/share/ShaoYiyang-SC22015.pdf). Proc. of the 5th International Symposium on Cloud and Service Computing(SC2), 2015. (poster)
+[19] Yiyang Shao, Yihang Luo, Xiaohe Hu, Yibo Xue, Yang Xiang and Kevin Yin. [FLAX: A Flexible Architecture for Large Scale Cloud Fabric](../../static/share/ShaoYiyang-SC22015.pdf). Proc. of the 5th International Symposium on Cloud and Service Computing (SC2), 2015. (poster)
 
 [18] Zhi Liu, Xiang Wang, Weishen Pan, Baohua Yang, Xiaohe Hu and Jun Li. [Towards Efficient Load Distribution in Big Data Cloud](../../static/share/LiuZhi-ICNC-2015.pdf). Proc. of the International Conference on Computing, Networking and Communications (ICNC), 2015.
 

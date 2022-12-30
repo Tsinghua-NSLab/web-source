@@ -10,9 +10,9 @@ custom_edit_url: null
 
 ### 申请专利
 
-[6] 李军, 李一凡, 贾成君, 胡效赫. 一种网络策略校验系统及方法, CN113721904A. 申请公开日: 2021年11月30日。
+[6] 李军，李一凡，贾成君，胡效赫。一种网络策略校验系统及方法，CN113721904A，申请公开日: 2021年11月30日。
 
-[5] 李一凡, 贾成君, 胡效赫, 李军. 针对容器网络实现策略校验的方法及其应用系统, CN111813499A. 申请公开日: 2020年10月23日。
+[5] 李一凡，贾成君，胡效赫，李军。针对容器网络实现策略校验的方法及其应用系统，CN111813499A，申请公开日: 2020年10月23日。
 
 [4] Yan Sun, Wei Xu, Xiaofeng Yang, Zhi Liu, Zhe Fu and Jun Li. [Networking service level agreements for computer datacenters](https://uspto.report/patent/grant/10735279), US Patent 10735279, 2020.（合作项目）
 
@@ -23,6 +23,8 @@ custom_edit_url: null
 [1] 胡效赫，刘值，祝航，骆怡航，李军。一种网络服务的资源编排方法及装置，专利号：ZL 2016 1 1031521.9，授权公告日：2019年05月24日。
 
 ### 撰写文章
+
+[13] Yifan Li, Xiaohe Hu, Chengjun Jia, Kai Wang and Jun Li. Kano: Eﬀicient Cloud Native Network Policy Verification. IEEE Transactions on Network and Service Management (TNSM), 2022.
 
 [12] Yifan Li, Chengjun Jia, Xiaohe Hu and Jun Li. [Mahjong: A Generic Framework for Network Data Plane Verification](../../static/share/ancs2021_Mahjong.pdf). Proc. of the ACM/IEEE Symposium on Architectures for Networking and Communications Systems (ANCS), 2021.
 

@@ -12,6 +12,8 @@ custom_edit_url: null
 
 ### 申请专利
 
+[9] 李军，贾成君，李一凡，胡效赫。一种多域网包分类处理方法及装置，CN114492621A，申请公开日：2022年5月13日。
+
 [8] Xuefeng Han, Wei Xu, Yan Sun, Xiaohe Hu, Danyang Li, Zhi Liu and Jun Li. 
 [Packet classification using multi-dimensional splitting](https://uspto.report/patent/grant/10257090), US Patent 10257090, 2019(合作项目)
 
@@ -30,6 +32,10 @@ custom_edit_url: null
 [1] 亓亚烜，李军。基于网络流量统计信息的多域网包分类算法，专利号：ZL 2005 1 0130708.X，授权公告日：2008年5月7日。（已转让）
 
 ### 撰写文章
+
+[25] Chengjun Jia, Chenglong Li, Yifan Li, Xiaohe Hu and Jun Li. FACL: A Flexible and High-Performance ACL engine on FPGA-based SmartNIC. Proc. of IFIP Networking, 2022.
+
+[24] Yao Xin, Wenjun Li, Guoming Tang, Tong Yang, Xiaohe Hu and Yi Wang. FPGA-Based Updatable Packet Classification Using TSS-Combined Bit-Selecting Tree. IEEE/ACM Transactions on Networking (TON), 2022.
 
 [23] Zhi Liu, Shijie Sun, Hang Zhu, Jiaqi Gao and Jun Li. [BitCuts: A fast packet classification algorithm using bit-level cutting](../../static/share/zhiliu-bitcuts.pdf). Computer Communications, pp. 38-52, Vol. 109, September, 2017.
 
