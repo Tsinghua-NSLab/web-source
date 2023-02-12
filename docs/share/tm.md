@@ -26,6 +26,8 @@ custom_edit_url: null
 
 ### 撰写文章
 
+[24] Xiaoyi Shi, Yifan Li, Chengjun Jia, Xiaohe Hu and Jun Li. [L7LB: High Performance Layer-7 Load Balancing on Heterogeneous Programmable Platforms](../../static/share/L7LB-infocom23-poster.pdf). Proc. of INFOCOM, 2023. (poster)
+
 [23] Didier Frank Isingizwe, Meng Wang, Wenmao Liu, Dongsheng Wang, Tiejun Wu and Jun Li. [Analyzing Learning-based Encrypted Malware Traffic Classification with AutoML](../../static/share/Didier_CT1078.pdf). Proc. of the 22nd IEEE International Conference on Communication Technology (ICCT), 2021.
 
 [22] Chengjun Jia, Yifan Li, Xiaohe Hu and Jun Li. [The Last RTT Matters and We Can Preact](https://dl.acm.org/doi/abs/10.1145/3472716.3472847). Proc. of the ACM SIGCOMM, 2021. (poster)
