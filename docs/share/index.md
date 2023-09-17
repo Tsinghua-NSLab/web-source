@@ -33,6 +33,8 @@ custom_edit_url: null
 
 ### 撰写文章
 
+[26] Chengjun Jia, Chenglong Li, Yifan Li, Xiaohe Hu and Jun Li. An Observation of Packet Classification: Most Rules are at the Top. IEEE INFOCOM WKSHPS, 2022.
+
 [25] Chengjun Jia, Chenglong Li, Yifan Li, Xiaohe Hu and Jun Li. FACL: A Flexible and High-Performance ACL engine on FPGA-based SmartNIC. Proc. of IFIP Networking, 2022.
 
 [24] Yao Xin, Wenjun Li, Guoming Tang, Tong Yang, Xiaohe Hu and Yi Wang. FPGA-Based Updatable Packet Classification Using TSS-Combined Bit-Selecting Tree. IEEE/ACM Transactions on Networking (TON), 2022.
