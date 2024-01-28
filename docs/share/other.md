@@ -6,6 +6,8 @@ custom_edit_url: null
 
 ### 撰写文章
 
+[29] Xi Wang, Xuecao Li, Tinghai Wu, Shenjing He, Yuxin Zhang, Xianyao Ling, Bin Chen, Lanchun Bian, Xiaodong Shi, Ruoxi Zhang, Jie Wang, Li Zheng, Jun Li and Peng Gong. [Municipal and Urban Renewal Development Index System: A Data-Driven Digital Analysis Framework](https://www.mdpi.com/2072-4292/16/3/456). Remote Sensing, 16, no. 3: 456, 2024.
+
 [28] Ju Xing, Zexun Jiang and Hao Yin. [Jupiter: A Modern Federated Learning Platform for Regional Medical Care](../../static/share/2020-Jupiter_final.pdf). Proc. of the IEEE Conference on Joint Cloud Computing (JCC), 2020. (Best Paper).
 
 [27] Shuo Wang. [Performance Evaluation of Hyperledger Fabric with Malicious Behavior](../../static/share/ICBC2019_ShuoWang-2.pdf). Proc. of the International Conference on Blockchain (ICBC), 2019.
