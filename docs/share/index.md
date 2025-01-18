@@ -12,7 +12,7 @@ custom_edit_url: null
 
 ### 申请专利
 
-[9] 李军，贾成君，李一凡，胡效赫。一种多域网包分类处理方法及装置，CN114492621A，申请公开日：2022年5月13日。
+[9] 李军，贾成君，李一凡，胡效赫。一种多域网包分类处理方法及装置，专利号: ZL 2022 1 0080521.7，授权公告日： 2024年10月29日。
 
 [8] Xuefeng Han, Wei Xu, Yan Sun, Xiaohe Hu, Danyang Li, Zhi Liu and Jun Li. 
 [Packet classification using multi-dimensional splitting](https://uspto.report/patent/grant/10257090), US Patent 10257090, 2019(合作项目)
@@ -32,6 +32,10 @@ custom_edit_url: null
 [1] 亓亚烜，李军。基于网络流量统计信息的多域网包分类算法，专利号：ZL 2005 1 0130708.X，授权公告日：2008年5月7日。（已转让）
 
 ### 撰写文章
+
+[28] Yao Xin,Chengjun Jia, Wenjun Li,Ori Rottenstreich, Yang Xu, Gaogang Xie, Zhihong Tian and Jun Li. A Heterogeneous and Adaptive Architecture for Decision-tree-based ACL Engine on FPGA. IEEE Transactions on Computers, 2024.
+
+[27] Yao Xin, Wenjun Li, Chengjun Jia, Xianfeng Li, Yang Xu, Bin Liu, Zhihong Tian and Weizhe Zhang. Recursive Multi-Tree Construction With Efficient Rule Sifting for Packet Classification on FPGA. IEEE/ACM Transactions on Networking (TON), 2023.
 
 [26] Chengjun Jia, Chenglong Li, Yifan Li, Xiaohe Hu and Jun Li. An Observation of Packet Classification: Most Rules are at the Top. IEEE INFOCOM WKSHPS, 2022.
 
