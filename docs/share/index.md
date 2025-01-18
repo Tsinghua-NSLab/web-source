@@ -33,7 +33,7 @@ custom_edit_url: null
 
 ### 撰写文章
 
-[28] Yao Xin,Chengjun Jia, Wenjun Li,Ori Rottenstreich, Yang Xu, Gaogang Xie, Zhihong Tian and Jun Li. A Heterogeneous and Adaptive Architecture for Decision-tree-based ACL Engine on FPGA. IEEE Transactions on Computers, 2024. (accepted)
+[28] Yao Xin,Chengjun Jia, Wenjun Li,Ori Rottenstreich, Yang Xu, Gaogang Xie, Zhihong Tian and Jun Li. A Heterogeneous and Adaptive Architecture for Decision-tree-based ACL Engine on FPGA. IEEE Transactions on Computers, 2024.
 
 [27] Yao Xin, Wenjun Li, Chengjun Jia, Xianfeng Li, Yang Xu, Bin Liu, Zhihong Tian and Weizhe Zhang. Recursive Multi-Tree Construction With Efficient Rule Sifting for Packet Classification on FPGA. IEEE/ACM Transactions on Networking (TON), 2023.
 
