@@ -12,7 +12,7 @@ custom_edit_url: null
 
 ### 申请专利
 
-[9] 李军，贾成君，李一凡，胡效赫。一种多域网包分类处理方法及装置，专利号: ZL 2022 1 0080521.7，授权公告日： 2024年10月29日。
+[9] 李军，贾成君，李一凡，胡效赫。一种多域网包分类处理方法及装置，专利号: ZL 2022 1 0080521.7，授权公告日： 2024年10月29日。（已转让）
 
 [8] Xuefeng Han, Wei Xu, Yan Sun, Xiaohe Hu, Danyang Li, Zhi Liu and Jun Li. 
 [Packet classification using multi-dimensional splitting](https://uspto.report/patent/grant/10257090), US Patent 10257090, 2019(合作项目)

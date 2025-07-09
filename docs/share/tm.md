@@ -10,7 +10,7 @@ custom_edit_url: null
 
 ### 申请专利
 
-[7] 李军，贾成君，李一凡，胡效赫。一种拥塞控制方法及装置，专利号：ZL 2021 1 0898650.2，授权公告日：2022年03月15日。
+[7] 李军，贾成君，李一凡，胡效赫。一种拥塞控制方法及装置，专利号：ZL 2021 1 0898650.2，授权公告日：2022年03月15日。（已转让）
 
 [6] Wei Xu, Xiaofeng Yang, Yan Sun, Yizhen Liu, Zhe Fu, Zhi Liu and Jun Li. [Multi-core lock-free rate limiting apparatus and method](https://uspto.report/patent/grant/10659372), US Patent 10659372, 2020.（合作项目）
 
