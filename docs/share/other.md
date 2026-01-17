@@ -6,6 +6,11 @@ custom_edit_url: null
 
 ### 撰写文章
 
+[31] Xi Wang, Xianyao Ling, Kun Li, Gang Yin, Liang Zhang, Jiang Wu, Annie Wang and Weizhe Wang. [LLM and Agent-Driven Data Analysis: A Systematic Approach for Enterprise Applications and System-level Deployment
+](http://arxiv.org/abs/2511.17676). arXiv preprint arXiv:2511.17676, 2025.
+
+[30] Xi Wang, Xianyao Ling, Kun Li, Gang Yin, Liang Zhang, Jiang Wu, Jun Xu, Fu Zhang, Wenbo Lei, Annie Wang n Peng Gong. [Multi-dimensional Data Analysis and Applications Basing on LLM Agents and Knowledge Graph Interactions](http://arxiv.org/abs/2510.15258). arXiv preprint arXiv:2510.15258, 2025.
+
 [29] Xi Wang, Xuecao Li, Tinghai Wu, Shenjing He, Yuxin Zhang, Xianyao Ling, Bin Chen, Lanchun Bian, Xiaodong Shi, Ruoxi Zhang, Jie Wang, Li Zheng, Jun Li and Peng Gong. [Municipal and Urban Renewal Development Index System: A Data-Driven Digital Analysis Framework](https://www.mdpi.com/2072-4292/16/3/456). Remote Sensing, 16, no. 3: 456, 2024.
 
 [28] Ju Xing, Zexun Jiang and Hao Yin. [Jupiter: A Modern Federated Learning Platform for Regional Medical Care](../../static/share/2020-Jupiter_final.pdf). Proc. of the IEEE Conference on Joint Cloud Computing (JCC), 2020. (Best Paper).
