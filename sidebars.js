@@ -47,7 +47,6 @@ module.exports = {
       type: 'category',
       label: '在校学生',
       items: [
-        'people/student/xiwang',
         'people/student/jiancui',
         'people/student/yilv',
         'people/student/mingfeng',
@@ -138,6 +137,7 @@ module.exports = {
         'people/student/jiafu',
         'people/student/chengjun',
         'people/student/yifan',
+        'people/student/xiwang',
       ]
     },
   ],
